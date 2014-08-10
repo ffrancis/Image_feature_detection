@@ -1,6 +1,3 @@
-Image_feature_detection
-=======================
-
 Face and eye detection from images using openCV:
 ================================================
 
