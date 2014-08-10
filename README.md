@@ -6,8 +6,7 @@ A Python code that detects and marks face and eye from images using openCV
 Dependencies:
 =============
 
-You will need to install Python's python-twitter library first:
-	openCV
+You will need to install openCV first:
 	Use the provided "install_open_cv.sh" to install openCV in linux
 	Warning: installation on openCV takes considerable time
 
