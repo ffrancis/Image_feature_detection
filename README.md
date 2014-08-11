@@ -1,7 +1,7 @@
 Face and eye detection from images using openCV:
 ================================================
 
-A Python code that detects and marks face and eye from images with reasonably large face/faces [and so same with eyes ;)] using openCV
+A Python script that detects and marks face and eye from images with reasonably large face/faces [and so same with eyes ;)] using openCV
 
 
 Input image:
@@ -17,7 +17,7 @@ Dependencies:
 
 You will need to install openCV first:
 	Use the provided "install_open_cv.sh" to install openCV in linux
-	Warning: installation on openCV takes considerable time
+	Warning: installation of openCV takes considerable time
 
 
 Compiled by Felix Francis
@@ -28,7 +28,7 @@ Description:    Finds an object of predifined class in an image. Haar classifier
 
 Input:          Input_image.jpg image file
 Returns:        Displays input_image.jpg with a rectangle (blue) over the detected face and a rectangle (red) over the detected eyes.
-                A rectangle (red) is drawn over the detected eye if eye is in any detected face. A rectangle (blue) is drawn over the detected face if there is more than one eye detected in it.
+                A rectangle (red) is drawn over the detected eye if eye is in any detected face. A rectangle (blue) is drawn over the detected face if there are more than one eye detected in it.
 
 Note: Use the provided "install_open_cv.sh" to install openCV in linux
 
