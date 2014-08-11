@@ -4,9 +4,9 @@ Description:    Finds an object of predifined class in an image. Haar classifier
                 The code uses trained classifiers in two XML files. cv.Load() function loads the XML file into memory. cv.HaarDetectObjects() function detectes
                 the objects
 
-Handy function for parsing lists from a csv reader into a string-referenced dictionary
-Input: input_image.jpg image file
-Returns: displays input_image.jpg with a rectangle (green) over the detected face and a rectangle (purple) over the detected eyes
+Input:          Input_image.jpg image file
+Returns:        Displays input_image.jpg with a rectangle (blue) over the detected face and a rectangle (red) over the detected eyes.
+                A rectangle (red) is drawn over the detected eye if eye is in any detected face. A rectangle (blue) is drawn over the detected face if there is more than one eye detected in it.
 
 Note: Use the provided "install_open_cv.sh" to install openCV in linux
 
