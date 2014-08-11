@@ -32,7 +32,7 @@ Returns:        Displays input_image.jpg with a rectangle (blue) over the detect
 
 Note: Use the provided "install_open_cv.sh" to install openCV in linux
 
-For additional information, reffer: http://docs.opencv.org/trunk/doc/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html#py-table-of-content-feature2d
+For additional information: http://docs.opencv.org/trunk/doc/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html#py-table-of-content-feature2d
 
 
 Additional functions:
