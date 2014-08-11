@@ -1,7 +1,7 @@
 Face and eye detection from images using openCV:
 ================================================
 
-A Python code that detects and marks face and eye from images with reasonably large face/faces [and so eyes ;)] using openCV
+A Python code that detects and marks face and eye from images with reasonably large face/faces [and so same with eyes ;)] using openCV
 
 
 Input image:
