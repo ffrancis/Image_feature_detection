@@ -6,7 +6,7 @@ Description:    Finds an object of predefined class in an image. Haar classifier
                 The code uses trained classifiers in two XML files. cv.Load() function loads the XML file into memory. cv.HaarDetectObjects() function detectes
                 the objects
 
-Input:          Input_image.jpg image file
+Input:          input_image.jpg image file
 Returns:        Displays input_image.jpg with a rectangle (blue) over the detected face and a rectangle (red) over the detected eyes.
                 A rectangle (red) is drawn over the detected eye if eye is in any detected face. A rectangle (blue) is drawn over the detected face if there is more than one eye detected in it.
 
