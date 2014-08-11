@@ -1,5 +1,7 @@
 '''
 
+# Compiled by Felix Francis
+
 Description:    Finds an object of predifined class in an image. Haar classifier implemented in opencv is used to identify and mark face and eye in images with reasonably large face and eyes.
                 The code uses trained classifiers in two XML files. cv.Load() function loads the XML file into memory. cv.HaarDetectObjects() function detectes
                 the objects
