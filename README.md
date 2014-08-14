@@ -37,4 +37,4 @@ For additional information: http://docs.opencv.org/trunk/doc/py_tutorials/py_fea
 
 Additional functions:
 =====================
-You can use other haar classifiers to detect other specific features in images.
+You can train/use other haar classifiers to detect other specific features in images.
